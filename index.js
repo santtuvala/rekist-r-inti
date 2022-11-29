@@ -4,7 +4,7 @@ const email = document.getElementById('email');
 const password = document.getElementById('password');
 const password2 = document.getElementById('password2');
 const postinumero = document.getElementById('postinumero');
-const osoite = document.getElementById('osoite');
+const osoite = document.getElementById('osoite'); 
 
 form.addEventListener('submit', e => {
     e.preventDefault();
